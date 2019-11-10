@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.29411.108
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleImageGallery", "SimpleImageGallery\SimpleImageGallery.csproj", "{D3979A5C-A8D0-4056-B32E-32DED78A970C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleImageGallery.Data", "SimpleImageGallery.Data\SimpleImageGallery.Data.csproj", "{B8E7110A-2294-426B-86F8-DF112C267E58}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleImageGallery.Data", "SimpleImageGallery.Data\SimpleImageGallery.Data.csproj", "{B8E7110A-2294-426B-86F8-DF112C267E58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleImageGallery.Services", "SimpleImageGallery.Services\SimpleImageGallery.Services.csproj", "{A49B6821-017D-401A-BD93-68E0ADFBF31D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{B8E7110A-2294-426B-86F8-DF112C267E58}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8E7110A-2294-426B-86F8-DF112C267E58}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8E7110A-2294-426B-86F8-DF112C267E58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A49B6821-017D-401A-BD93-68E0ADFBF31D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A49B6821-017D-401A-BD93-68E0ADFBF31D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A49B6821-017D-401A-BD93-68E0ADFBF31D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A49B6821-017D-401A-BD93-68E0ADFBF31D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
