@@ -1,0 +1,10 @@
+D:\Projects\Projects\C#\ASP\SimpleImageGallery\SimpleImageGallery.Data\bin\Debug\netcoreapp3.0\SimpleImageGallery.Data.deps.json
+D:\Projects\Projects\C#\ASP\SimpleImageGallery\SimpleImageGallery.Data\bin\Debug\netcoreapp3.0\SimpleImageGallery.Data.dll
+D:\Projects\Projects\C#\ASP\SimpleImageGallery\SimpleImageGallery.Data\obj\Debug\netcoreapp3.0\SimpleImageGallery.Data.AssemblyInfoInputs.cache
+D:\Projects\Projects\C#\ASP\SimpleImageGallery\SimpleImageGallery.Data\obj\Debug\netcoreapp3.0\SimpleImageGallery.Data.AssemblyInfo.cs
+D:\Projects\Projects\C#\ASP\SimpleImageGallery\SimpleImageGallery.Data\bin\Debug\netcoreapp3.0\SimpleImageGallery.Data.runtimeconfig.json
+D:\Projects\Projects\C#\ASP\SimpleImageGallery\SimpleImageGallery.Data\bin\Debug\netcoreapp3.0\SimpleImageGallery.Data.runtimeconfig.dev.json
+D:\Projects\Projects\C#\ASP\SimpleImageGallery\SimpleImageGallery.Data\bin\Debug\netcoreapp3.0\SimpleImageGallery.Data.pdb
+D:\Projects\Projects\C#\ASP\SimpleImageGallery\SimpleImageGallery.Data\obj\Debug\netcoreapp3.0\SimpleImageGallery.Data.dll
+D:\Projects\Projects\C#\ASP\SimpleImageGallery\SimpleImageGallery.Data\obj\Debug\netcoreapp3.0\SimpleImageGallery.Data.pdb
+D:\Projects\Projects\C#\ASP\SimpleImageGallery\SimpleImageGallery.Data\obj\Debug\netcoreapp3.0\SimpleImageGallery.Data.csprojAssemblyReference.cache
