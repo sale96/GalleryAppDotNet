@@ -1,0 +1,18 @@
+﻿
+@model SimpleImageGallery.Models.GalleryDetailModel
+
+    <div class="container body-content">
+        <div class="row image-detail-container">
+            <div class="image-detail">
+                <img src="@Model.Url" alt="@Model.Title" />
+            </div>
+        </div>
+        <div class="image-detail-meta">
+            <h3>Title: @Model.Title</h3>
+            <small>Uploaded: @Model.CreatedAt</small>
+        </div>
+        <div class="row controls">
+            <a asp-controller="Gallery" asp-action="Index" class="btn btn-primary">Back to Gallery</a>
+        </div>
+    </div>
+

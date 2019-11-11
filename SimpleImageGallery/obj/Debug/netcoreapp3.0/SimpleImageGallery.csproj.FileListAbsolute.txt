@@ -129,3 +129,4 @@ D:\Projects\Projects\C#\ASP\SimpleImageGallery\SimpleImageGallery\bin\Debug\netc
 D:\Projects\Projects\C#\ASP\SimpleImageGallery\SimpleImageGallery\obj\Debug\netcoreapp3.0\Razor\Views\Gallery\index.cshtml.g.cs
 D:\Projects\Projects\C#\ASP\SimpleImageGallery\SimpleImageGallery\bin\Debug\netcoreapp3.0\SimpleImageGallery.Services.dll
 D:\Projects\Projects\C#\ASP\SimpleImageGallery\SimpleImageGallery\bin\Debug\netcoreapp3.0\SimpleImageGallery.Services.pdb
+D:\Projects\Projects\C#\ASP\SimpleImageGallery\SimpleImageGallery\obj\Debug\netcoreapp3.0\Razor\Views\Gallery\Detail.cshtml.g.cs

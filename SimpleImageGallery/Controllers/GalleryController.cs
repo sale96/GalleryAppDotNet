@@ -30,5 +30,21 @@ namespace SimpleImageGallery.Controllers
 
             return View(model);
         }
+
+        public IActionResult Detail(int id)
+        {
+            var image = _imageService.GetById(id);
+
+            var model = new GalleryDetailModel()
+            {
+                Id = image.Id,
+                Title = image.Title,
+                Tags = image.Tags.Select(t => t.Description).ToList(),
+                Url = image.Url,
+                CreatedAt = image.Created
+            };
+
+            return View(model);
+        }
     }
 }
